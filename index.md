@@ -1,6 +1,6 @@
 
 #About me
-![Max](assets/images/20210608_105112.jpg?style="avatar")
+![Max](assets/images/20210608_105112.jpg =x72x)
 
 I currently work for Data Ops.
 I have many years of experience working with BI, Big Data, Data Engineering and most recently DevOps teams.
