@@ -1,7 +1,8 @@
 
 # About me
 
-<img align="left" src="assets/images/20210608_105112.jpg" alt="Max" style="width: 64px">
+<img align="left" src="assets/images/20210608_105112.jpg" alt="Max" style="width: 90px" class="rounded">
+
 
 I currently work for Data Ops.
 I have many years of experience working with BI, Big Data, Data Engineering and most recently DevOps teams.
