@@ -1,6 +1,6 @@
 
 # About me
-![Hi! I´m Max :wave:](assets/images/20210608_105112.jpg?width=15x)
+![Hi! I´m Max :wave:](assets/images/20210608_105112.jpg?width=62px)
 
 I currently work for Data Ops.
 I have many years of experience working with BI, Big Data, Data Engineering and most recently DevOps teams.
