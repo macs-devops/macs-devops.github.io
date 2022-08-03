@@ -1,1 +1,32 @@
+permalink: /:title/
+
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
+
+title: DataOps & DevOps 
+tagline: 'Software engineering and other stuff'
+url: "https://1danielcoelho.github.io"
+baseurl: "/"
+github: [metadata]
+
+author:
+  name: Max Florentin
+  github: macs-devops
+  email: max.deployments@gmail.com
+
+exclude:
+  - todo.md
+  - third_party_licenses/LICENSE.Hyde.md
+  - third_party_licenses/LICENSE.Poole.md
+  - LICENSE
+
+plugins:
+  - jekyll-prism-plugin
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 remote_theme: rundocs/jekyll-rtd-theme
+
+
