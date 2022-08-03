@@ -1,7 +1,7 @@
 
 # About me
 
-<img align="left" src="assets/images/20210608_105112.jpg" alt="Max" style="width: 90px" class="rounded">
+<img align="left" src="assets/images/20210608_105112.jpg" alt="Max" style="width: 90px" class="circle">
 
 
 I currently work for Data Ops.
