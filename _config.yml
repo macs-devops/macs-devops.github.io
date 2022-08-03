@@ -1,32 +1,31 @@
-permalink: /:title/
+title: jekyll-rtd-theme
+description: Just another documentation theme compatible with GitHub Pages
 
-markdown: kramdown
-kramdown:
-   syntax_highlighter_opts:
-      disable : true
+theme: null
 
-title: DataOps & DevOps 
-tagline: 'Software engineering and other stuff'
-url: "https://1danielcoelho.github.io"
-baseurl: "/"
-github: [metadata]
+# debug:
+#   compress: true
+#   dist: false
+#   shortcodes: true
 
-author:
-  name: Max Florentin
-  github: macs-devops
-  email: max.deployments@gmail.com
-
-exclude:
-  - todo.md
-  - third_party_licenses/LICENSE.Hyde.md
-  - third_party_licenses/LICENSE.Poole.md
-  - LICENSE
+readme_index:
+  with_frontmatter: true
 
 plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
 
-remote_theme: rundocs/jekyll-rtd-theme
-
-
+exclude:
+  - Makefile
+  - CNAME
+  - LICENSE
+  - update.sh
+  - Gemfile
+  - Gemfile.lock
+  - requirements.txt
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - jekyll-rtd-theme.gemspec
