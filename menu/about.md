@@ -1,7 +1,7 @@
 ---
 sort: 2
 ---
-### About me
+# About me
 
 I currently work for Data Ops.
 I have many years of experience working with BI, Big Data, Data Engineering and most recently DevOps teams.
