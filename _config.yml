@@ -23,9 +23,9 @@ exclude:
   - LICENSE
 
 plugins:
-  - jekyll-prism-plugin
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
 
 remote_theme: rundocs/jekyll-rtd-theme
 
