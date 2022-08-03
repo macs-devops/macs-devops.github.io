@@ -1,8 +1,6 @@
 ---
-layout: page
-title: About
+sort: 2
 ---
-
 ### About me
 
 I currently work for Data Ops.
