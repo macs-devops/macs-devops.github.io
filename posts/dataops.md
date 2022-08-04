@@ -1,8 +1,4 @@
----
-layout: post
-title: What is DataOps?
-tags: DataOps
----
+# What is DataOps?
 
 To understand DataOps, it’s worthwhile to first look at its somewhat more mature counterpart: DevOps.
 
