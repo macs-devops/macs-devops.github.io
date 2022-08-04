@@ -1,20 +1,20 @@
 
 # About me
+<img src="../assets/images/20210608_105112.jpg" alt="Max" style="zoom:6%;" align="left"/>
 
-<img align="left" src="assets/images/20210608_105112.jpg" alt="Max" style="width: 90px" class="circle">
+Hi! I’m a senior DataOps with experience in construction of a data lake, automation and orchestration of processes and deployment of infrastructure for data engineering teams with kubernetes or terraform, among other things!
 
-
-I currently work for Data Ops.
 I have many years of experience working with BI, Big Data, Data Engineering and most recently DevOps teams.
+Using agile methodologies and also proposing the use of good practices, code refactoring and process automation.
 
-<img src="assets/images/cicd.png" alt="Continuous integration, continuous deployment">
+![Continuous integration, continuous deployment](../assets/images/cicd.png)
 
-I worked in market research, banking and fintech companies. I consider myself curious and pragmatic, I don't like to do repetitive tasks, that's why I found in pipelines and automation a great ally in my day to day.
+I worked in market research, banking and fintech companies.
+
+Along the way, different projects and different talents with whom I worked have internalized me in the business rules and how different teams work and the difficulties and dependencies with which they must deal on a daily basis.
+This knowledge gave me the opportunity to add value to the business by detecting vulnerabilities and also optimizing processes and resources.
 
 I live in Argentina but I am willing to relocate, I am not actively looking for a job but I know how to listen, so you can contact me if you think my profile matches your project.
-
-
-
 
 
 
