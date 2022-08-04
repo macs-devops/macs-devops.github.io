@@ -4,9 +4,14 @@ sort: 3
 
 # Posts
 
-Browse in this archive by month and year
+```
+{% raw %}{% include list.liquid all=true %}{% endraw %}
+```
 
-[link](../_posts/dataops.md#section-name) // note the dash!
+{% include list.liquid all=true %}
+
+
+[link](../_posts/dataops.md)
 
 <!--- ```
 Hey @saowang, what do you think of this?
