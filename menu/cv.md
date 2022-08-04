@@ -10,5 +10,4 @@ sort: 1
         <p>This browser does not support PDFs. Please download the PDF to view it: 
             <a href="../assets/images/CV_mflorentin_202206.pdf"> Download CV </a>
         </p>
-    </embed>
 </object>
