@@ -7,13 +7,13 @@
     
       
 
----
-> Hi! 
-> I’m a senior DataOps with experience in construction of a data lake, automation and orchestration of processes and deployment of infrastructure for data engineering teams with kubernetes or terraform, among other things!
-> 
-> I have many years of experience working with BI, Big Data, Data Engineering and most recently DevOps teams.
-> Using agile methodologies and also proposing the use of good practices, code refactoring and process automation.
->  
+
+>> Hi! 
+>> I’m a senior DataOps with experience in construction of a data lake, automation and orchestration of processes and deployment of infrastructure for data engineering teams with kubernetes or terraform, among other things!
+>> 
+>> I have many years of experience working with BI, Big Data, Data Engineering and most recently DevOps teams.
+>> Using agile methodologies and also proposing the use of good practices, code refactoring and process automation.
+>>  
 
 ![Continuous integration, continuous deployment](../assets/images/cicd.png)
 ---
