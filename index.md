@@ -1,12 +1,14 @@
 
 # About me
----
+  
+
 <img src="../assets/images/20210608_105112.jpg" alt="Max" style="zoom:6%;" align="left" class="circle">   
----  
   
     
 
+    
 
+---
 Hi! 
 I’m a senior DataOps with experience in construction of a data lake, automation and orchestration of processes and deployment of infrastructure for data engineering teams with kubernetes or terraform, among other things!
 
