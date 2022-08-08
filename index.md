@@ -22,6 +22,6 @@ I worked in market research, banking and fintech companies.
 Along the way, different projects and different talents with whom I worked have internalized me in the business rules and how different teams work and the difficulties and dependencies with which they must deal on a daily basis.
 This knowledge gave me the opportunity to add value to the business by detecting vulnerabilities and also optimizing processes and resources.
 
-![Super team](../assets/images/super-team.jpeg)
+![Super team](../assets/images/super-team.png)
 ---
 I live in Argentina but I am willing to relocate, I am not actively looking for a job but I know how to listen, so you can contact me if you think my profile matches your project.
