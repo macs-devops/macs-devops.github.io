@@ -12,17 +12,17 @@ The executions of these tools were not entirely successful.
   
 I found some tools that I think are interesting and with which I started some tests.  
   
-[awsls]: https://github.com/jckuester/awsls  
+[awsls](https://github.com/jckuester/awsls)  
   
   
-[awsrm]: https://github.com/jckuester/awsrm  
+[awsrm](https://github.com/jckuester/awsrm)  
   
   
-[awsweeper]: https://github.com/jckuester/awsweeper
+[awsweeper](https://github.com/jckuester/awsweeper)
   
   
 I don't really know if it's some aws control mechanism or what, but I haven't been able to do a massive deletion of my account's resources.  
   
   
-
+:sweat_smile: In these days I will conclude the tests and update this post.
 
